@@ -1,4 +1,4 @@
-# Movie-Project
+# Movie Project
 
 ### What makes a good movie? Is it revenue, budget, or Robert De Niro?
 
